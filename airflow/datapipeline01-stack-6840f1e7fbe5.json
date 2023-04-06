@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "datapipeline01-stack",
+  "private_key_id": "6840f1e7fbe581bc41dd1f58c3500ed2a99548f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClpdWtn5KQf24m\nSE4JiR2porynSLFTCBGENDqVpKft4zBYIF7Zn3Y8YKpB+i295DXcqX7aDxfZrU+J\naFSvRVeXGZa6eynZKMEF7WrsMNBjIRLV/g5MP7n9P1Fa3noZtitXMb20/WnX5y6X\n5M/5FqzaePmbDeaRfUVGVP1cGeHuWcxVkCkUC4WQPNDaVLBY4r7DROLKVLEzIaK0\noV66bCAhoEg7BktQrNsjKYsOm2Xn6C3uGRZIF+iu4g/9chyZqkmES1cn83u6PRzB\nerX/zoKKi5JYmzdTklNf/liHkb2GLBnziVBLiYdoIuc8fOKP+7XH6FXgLL+sHTcl\nOYRGd+4TAgMBAAECggEALybAZza4ApezZARK6l30apgfOULw7uCqE8bGMlh3ULjN\nxxgXx7yjbFZbwIIVSStPxasdp7aKJHU34bYn/OgxIZqwFA8A/4ahQy2stOTEPKNq\neC1kJoIxUAwY/VO8z9rSBXTsOju0SDfPRH9mT9ILi/jJnEBdtGZDNNz2baQUcsL4\nz7ZyVE77ZVE9vmy1uteEmcL9suoD+zyBmdv2noIMjeHc0gBb8WmUqK/m/VI5nVU3\nyWeE0yH3Yg+C8BQWn+YNsGcl54Nw04fx5ADEyUiwpZRwlP7Tos8BkQQpGAXNVB8b\ntP35GSb8lPq7gJeyuVfrotszpm+Wh3pVwjW1RHtuCQKBgQDoznQxv1Zzf9/IUPFK\nogiFVj2Eh2GpP0Jq+0b4s9nBlcpPLFTRkrcBSDuoHZZ4CQqfVgKts2wWYUOrn0KI\nw1WYw8FPEopkOPGW6TbgioBGvN2yX7AZ0dQR9yYym/ZibxWieJiOHCYobrOrGa+v\n6Qi2EVA5zEqflP+FtnZuBOaJVQKBgQC2Jo04aHbF19EEpNrvX9wcrDNihFQ3wnaD\ns9euhF+wn6VbWysWnHgpjcyO30XMS/ptow/G+Kwr1K46b7yuFtiuvge3DgXbbT/B\nrVu26RCsfeu1ODrnsNTMCaAIqSJ+ZnDqnRne+VUoYqExeASNMezvA/5MALyUgByJ\ngWCo9vJ5xwKBgAiQh8/ItTp8itQIvke7nEqjeJHmlR4v2Jas9dhybWFkzFOLUvd+\nyUK/0IoHxKBX3M8tz91qC2DrZRzsN/tmDEEZeoQZL4QuYBzoKX+rOLrhedp1ELpy\ncLXUfNBB0peedJJMk3gu6uxz3iI+SKtVDF/+VRA7RseGKLxXkRXNElodAoGAARyb\nIA0DLJH0pKKc83kSTtp+Ncu4994n+wXN+zKzotBWoggcazbpRNeot/aE5opQLPsh\nzYUXB+10Ysbrz+Qzzl06jtN3Fa/FA9mbBbLGd0cNeT2unltl8Rjd8S+XFk5pwgTT\nc5jx/B0d/r9Mx8/WMl9D3hLjE8T0Z6JyhJV9RWECgYEAkIIPocYHEr9GSdxb0Xkd\n7+0x856p8Ep5Ya0ISuDnwBuTM4wR/avrHx6CfCzqPC+UWyTRUj/hF6a0atms/CTl\nUyUXr6LaI+hwUZf4Jn+tL3Q3aTonmsI0zLnoKdvMBbiSUaPLzBLsuEZSerKP1/vo\nOcXCxY1sFG7QNgGFITDU0m0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-airflow-stackdatapipeline@datapipeline01-stack.iam.gserviceaccount.com",
+  "client_id": "106361124055620312857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-airflow-stackdatapipeline%40datapipeline01-stack.iam.gserviceaccount.com"
+}
